@@ -45,6 +45,10 @@ public class Battle {
         protoWar.shieldAttack();
         furyWar.run();
 
+        System.out.println();
+        System.out.println("Не ясно, либо последняя битва была столь велика, либо состарившийся чернокнижник докастовал дезинтеграцию, но поле битвы было уничтожено.");
+        System.out.println("Больше битв здесь мы не увидим");
+
     }
 
 }
